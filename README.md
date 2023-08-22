@@ -1,4 +1,4 @@
-#SimpleStorage contract using hardhat example - Thanks to Patrick Collins.
+#SimpleStorage contract using hardhat with ethers v6 - Thanks to Patrick Collins.
 
 ```diff
 
@@ -6,6 +6,8 @@
 
 I followed Patrick Collins FFC tutorial.
 ! At that time he was using ethers v5 and bunch of libraries. As for 2023 you can replace majority of libraries with just hardhat-toolbox. This simple project comes with a SimpleStorage contract, a test for that contract, and a script that deploys that contract.
+
+I have updated everything so you can use ethers v6
 
 + I have added a task sample also.
 
