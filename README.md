@@ -1,4 +1,4 @@
-#SimpleStorage contract using hardhat with ethers v6 - Thanks to Patrick Collins.
+SimpleStorage contract using hardhat with ethers v6 - Thanks to Patrick Collins.
 
 ```diff
 
@@ -11,7 +11,9 @@ I have updated everything so you can use ethers v6
 
 + I have added a task sample also.
 
-- remember to replace the API keys with your own in hardhat.config ```
+- remember to replace the API keys with your own in hardhat.config
+
+```
 
 
 
