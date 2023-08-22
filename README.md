@@ -1,6 +1,13 @@
 # Sample Hardhat Project
 
-!This project demonstrates a basic Hardhat use case using Ethers V6. I followed Patrick Collins FFC tutorial.
+```diff
+# Colored Text Example
+
+- This is text in red.
++ This is text in green.
+! This is text in orange.
+# This is text in gray.
+@@ This is text in purple (and bold) @@!This project demonstrates a basic Hardhat use case using Ethers V6. I followed Patrick Collins FFC tutorial.
 
 At that time he was using ethers v5 and bunch of libraries. As for 2023 you can replace majority of libraries with just hardhat-toolbox. This simple project comes with a SimpleStorage contract, a test for that contract, and a script that deploys that contract.
 
