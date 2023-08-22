@@ -12,6 +12,7 @@ I have updated everything so you can use ethers v6
 + I have added a task sample also.
 
 - remember to replace the API keys with your own in hardhat.config
+```
 
 
 
