@@ -13,8 +13,6 @@ I have updated everything so you can use ethers v6
 
 - remember to replace the API keys with your own in hardhat.config
 
-```
-
 
 
 Try running some of the following tasks:
